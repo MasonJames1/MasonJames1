@@ -10,12 +10,12 @@
 
 ### Here are some of the projects I've worked on that you can find on my GitHub profile:
 
-Non-Profit Member Analysis: Analyzed and idetifed high risk Non-Profit members.
-Unemployment rate Analysis: used logitical regression to identify key factors in the unemplyment rate.
+1. Non-Profit Member Analysis: Analyzed and idetifed high risk Non-Profit members.
+2. Unemployment rate Analysis: used logitical regression to identify key factors in the unemplyment rate.
 
 # Skills
 
-Python: Beginner
-SQL: Intermediate
-R: Beginner
-Power BI: Beginner
+- Python: Beginner
+- SQL: Intermediate
+- R: Beginner
+- Power BI: Beginner
