@@ -1,32 +1,21 @@
-###[Your Name]'s GitHub Profile
+### Mason's GitHub Profile
 
-#Welcome to my GitHub profile! Here you'll find a collection of my coding projects, experiments, and contributions to open-source software.
+# Welcome to my GitHub profile! Here you'll find a collection of my coding projects, experiments, and contributions to open-source software.
 
-###About Me
+### About Me
 
-#I am a [describe your role/job title/occupation] with [number] years of experience in [specific area or industry]. I am passionate about [your interests and areas of expertise] and always looking to learn new technologies and skills.
+# I am a graduating senior from the University of Iowa. I have a degree in Business Analytics and Information Systems.
 
-###Projects
+### Projects
 
-#Here are some of the projects I've worked on that you can find on my GitHub profile:
+# Here are some of the projects I've worked on that you can find on my GitHub profile:
 
-[Project 1]: [Short description]
-[Project 2]: [Short description]
-[Project 3]: [Short description]
-Contributions
+Non-Profit Member Analysis: Analyzed and idetifed high risk Non-Profit members.
+Unemployment rate Analysis: used logitical regression to identify key factors in the unemplyment rate.
 
-#I also contribute to open-source software projects, including:
+### Skills
 
-[Contribution 1]: [Short description]
-[Contribution 2]: [Short description]
-[Contribution 3]: [Short description]
-
-###Skills
-
-[Programming Language 1]: [Level of proficiency]
-[Programming Language 2]: [Level of proficiency]
-[Programming Language 3]: [Level of proficiency]
-[Framework 1]: [Level of proficiency]
-[Framework 2]: [Level of proficiency]
-[Tool 1]: [Level of proficiency]
-[Tool 2]: [Level of proficiency]
+Python: Beginner
+SQL: Intermediate
+R: Beginner
+Power BI: Beginner
