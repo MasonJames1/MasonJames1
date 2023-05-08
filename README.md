@@ -1,6 +1,7 @@
 # Mason's GitHub Profile
 
 ![alt text](IMG_3336.jpeg)
+<img src="IMG_3336.jpg" alt="alt text" height="100"/>
 
 ### Welcome to my GitHub profile! Here you'll find a collection of my coding projects, experiments, and contributions to open-source software.
 
