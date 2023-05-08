@@ -1,5 +1,7 @@
 # Mason's GitHub Profile
 
+![alt text](IMG_3336.jpeg)
+
 ### Welcome to my GitHub profile! Here you'll find a collection of my coding projects, experiments, and contributions to open-source software.
 
 # About Me
